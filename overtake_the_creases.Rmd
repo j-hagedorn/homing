@@ -1,45 +1,49 @@
-# (PART) Overtake the Creases {-}
+# Overtake the Creases {-}
 
-# Overtake
+## Overtake {-}
 
-## Obsolescence
-
-
-
----
-
-## Versions
+### Obsolescence {-}
 
 
 
 ---
 
-## Event Planning
+### Versions {-}
+
+
+
+---
+
+### Event Planning {-}
 
 
 
 
 ---
 
-## Replace
+### Replace {-}
 
 
 
 ---
 
-## Taxonomy
+### Taxonomy {-}
 
 
+---
 
-## Accrual
-
-
-# The Light Reactions | The Dark Reactions
+### Accrual {-}
 
 
-# Creases
+---
 
-## Autumn
+## The Light Reactions | The Dark Reactions {-}
+
+---
+
+## Creases {-}
+
+### Autumn {-}
 
 Novemberous, the body a warm sliver
 in frigid field, stark letter 
@@ -96,13 +100,13 @@ then what is it that prays in us?
 then stars would fill the spaceless sky 
 then we would see things as they are.
 
-## Winter
+### Winter {-}
 
 
-## Spring
+### Spring {-}
 
 
-## Latesummer
+### Latesummer {-}
 
 
 With our last polaroids we took pictures of LIGHT and DARKNESS

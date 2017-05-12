@@ -4,3 +4,8 @@
 _publish.R
 _bookdown_files
 rsconnect
+*.doc
+*.docx
+*.tmp
+*.xls
+*.pdf
