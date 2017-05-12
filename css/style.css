@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
+
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+
+body, h3 { font-family: 'Cormorant Garamond', serif; }
+
+h1, h2 {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: normal;
+}

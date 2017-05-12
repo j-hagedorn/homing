@@ -1,4 +1,4 @@
-# (PART) Habits {-}
+# Habits {-}
 
 habit, *n.* 1. a. Bodily apparel or attire; clothing,
 raiment, dress. b. transf. and fig. Outward form or
@@ -12,7 +12,9 @@ formation of a crystal. 5. Habitation, abode. 6. A
 tendency to act in a certain way, acquired by frequent
 repetition of an act until it becomes almost involuntary.
 
-# *Harbor hidden in the middle of*
+## Harbor hidden {-}
+
+*Harbor hidden in the middle of*
 
 *a turbid current: sperm-tails flailing*
 
@@ -69,7 +71,7 @@ Even this flimsy string of time should be enough.
 
 ---
 
-# A
+## Another day {-} 
 
 Another day, the double-dozen heads it dregs aloft again,
 nodding or shaking; candelabra which some vital wind,	 
@@ -145,7 +147,7 @@ nodes: the host whose face I never wholly glimpse.
 
 ---
 
-# B
+## Buttressed by the vasts {-}
 
 Buttressed by  the vasts I *b*alance   somehow 
 
@@ -231,7 +233,7 @@ severe expanse it treads   *w*ithout    a    word
 
 ---
 
-# I
+## Itinerant {-}
 
 Itinerant, these threads appear amid the weave
 
@@ -239,7 +241,7 @@ this sturdy-seeming life affords; aureal strands
 
 intervalled to salience from the drab; a dance
 
-not understood by us, but done.  Example:  Leaves’
+not understood by us, but done.  *Example*:  Leaves’
 
 eternal shuttling between the branches & the worm;
 
@@ -320,7 +322,7 @@ ever to sojourn back behind the tapestry, and to return.
 
 ---
 
-# T
+## T {-}
 
 
 *To the Chief Singer;*
@@ -377,7 +379,7 @@ Except in others, I can never sing, so
 
 ---
 
-# S
+## Suited {-}
 
 
 *Simple and spiritual intentions slip easily from* 

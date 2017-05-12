@@ -1,6 +1,6 @@
-# (PART) Nimbuses {-}
+# Nimbuses {-}
 
-# A
+## A {-}
 
 And the lion will lie with the lamb
 and the wolf lick the fur of the caribou, calmly,
@@ -58,20 +58,20 @@ and I will enter their gates with thanksgiving
 
 ---
 
-# B
+## B {-}
 
 
 ---
 
-# C
+## C {-}
 
 
 ---
-# D
+## D {-}
 
 
 ---
-# E
+## E {-}
 
 “Retell legends,” ebb the embers .
   Ye, edgeless Essence
@@ -111,10 +111,10 @@ met.  Be felt there yet.
 
 
 ---
-# F
+## F {-}
 
 ---
-# G
+## G {-}
 
 Gorged by grace, I gurgle supplications.
 
@@ -144,52 +144,52 @@ God of the gaps, You peel my meanings back.
 
 
 ---
-# H
+## H {-}
 
 ---
-# I
+## I {-}
 
 ---
-# J
+## J {-}
 
 ---
-# K
+## K {-}
 
 ---
-# L
+## L {-}
 
 ---
-# M
+## M {-}
 
 ---
-# N
+## N {-}
 
 ---
-# O
+## O {-}
 
 ---
-# P
+## P {-}
 
 ---
-# Q
+## Q {-}
 
 ---
-# R
+## R {-}
 
 ---
-# S
+## S {-}
 
 ---
-# T
+## T {-}
 
 ---
-# U
+## U {-}
 
 ---
-# V
+## V {-}
 
 ---
-# W
+## W {-}
 
 What do you want with me?
 Why give me a mind, a welter of
@@ -233,16 +233,16 @@ with wind the Question makes.
 
 
 ---
-# X
+## X {-}
 
 ---
-# Y
+## Y {-}
 
 ---
-# Z
+## Z {-}
 
 ---
-# ○
+## ○ {-}
 
 *“‘...ma tu perche vai?’… ‘per tornar altra volta*
 *la dov’io son, fo io questo vïaggio”* 	(Purgatorio 2.90)  
